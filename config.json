@@ -1,0 +1,413 @@
+[
+  
+    
+  {
+    "title":"ملخصات و أهداف",
+    "drawable":"",
+    "submenu":"فيديوهات",
+    "iap":false,
+    "tabs":[
+	               {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCen_nkxeuySf9qTX_zahZHw",
+          "channel"
+        ]
+      },  
+	                   {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCYrWutKQxjIh-_EKtNNBdjg",
+          "channel"
+        ]
+      },  
+	              {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCBdejLBeGz9nD9H315Bjscw",
+          "channel"
+        ]
+      },  
+	          {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCLT0U-qIpN71Nruvxg5jKhA",
+          "channel"
+        ]
+      },  
+	    {
+        "title":"اخبار كرة القدم ",
+        "provider":"youtube",
+        "arguments":[
+          "UCmaIVdaP1KfKWtvOw6eDe0A",
+          "channel"
+        ]
+      },        
+	
+	   {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCvryFb36DHoWl8k3StLyKlw",
+          "channel"
+        ]
+      },  
+	   {
+        "title":"المغرب ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UC7eosR_uR44AGmOFTUWa_UA",
+          "channel"
+        ]
+      },  
+	         {
+        "title":"الجزائر ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCHfMP69i2J9bpXBGklXiTiw",
+          "channel"
+        ]
+      },  
+	    
+	          {
+        "title":"مصر ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCB36jBOj5L5YcwUGj82rOCQ",
+          "channel"
+        ]
+      },  
+	              {
+        "title":"تونس ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCXEvtyhAE2iXh2-r7TlAh2A",
+          "channel"
+        ]
+      }, 
+	  
+	        {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCLT0U-qIpN71Nruvxg5jKhA",
+          "channel"
+        ]
+      },  
+	
+	 
+	       {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCtAFuD-iHvzKjtfJhMCHiLw",
+          "channel"
+        ]
+      },  
+
+
+
+	
+
+	  	  	   {
+        "title":"الدوري الاسباني",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
+
+        ]
+      },
+	  	   {
+        "title":"الدوري الفرنسي",
+        "provider":"youtube",
+        "arguments":[
+          "UC58LMAlfwtGRNR6Xpd4DlSA",
+          "channel"
+
+        ]
+      },
+     
+      {
+        "title":"الدوري السعودي",
+        "provider":"youtube",
+        "arguments":[
+          "UCuv25YFiKY3NUnuG7q7F3ng",
+          "channel"
+        ]
+      }
+	   ,
+	
+	     {
+        "title":"مقتطفات",
+        "provider":"youtube",
+        "arguments":[
+          "UCfWnNRm78OM4fmgrkI--RvA",
+          "channel"
+        ]
+      },
+	
+	    	     {
+        "title":"بي اين الاخبارية",
+        "provider":"youtube",
+        "arguments":[
+          "UCqXVEbCxzMh-Xljo7ApVgTQ",
+          "channel"
+        ]
+      },
+	
+	 
+	
+	    	          {
+        "title": "On Sport",
+        "provider":"youtube",
+        "arguments":[
+          "UCWLo4r-9_x4GCJCFShNFq0A",
+          "channel"
+
+        ]
+      },
+	   	  	
+
+	    {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
+
+        ]
+      },
+	      
+     
+	     
+	    
+   {
+        "title":"Le Sport avec CANAL",
+        "provider":"youtube",
+        "arguments":[
+          "UC8ggH3zU61XO0nMskSQwZdA",
+          "channel"
+
+        ]
+      },
+	
+	    
+	    {
+        "title":"Foot Mercato",
+        "provider":"youtube",
+        "arguments":[
+          "UCrzDtXyuSBch2u_31JJj-Dw",
+          "channel"
+
+        ]
+      }
+	    ,
+	    {
+        "title":"AFTER FOOT",
+        "provider":"youtube",
+        "arguments":[
+          "UCUdwSuEopnWNpibR9-dgciw",
+          "channel"
+
+        ]
+      }
+	  
+    ]
+  },
+		 {
+    "title":"نتائج مباشرة",
+    "drawable":"",
+    "submenu":"نتائج",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.matchendirect.fr/"
+        ]
+      }
+    ]
+
+  },
+	 {
+    "title":"مقابلات مباشرة الان",
+    "drawable":"",
+    "submenu":"نتائج",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://t.flashscore.ca/#!/soccer/live"
+        ]
+      }
+    ]
+
+  },
+	
+ {
+    "title":"ترتيب الدوريات",
+    "drawable":"",
+    "submenu":"نتائج",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://t.flashscore.ca/#!/soccer/standings"
+        ]
+      }
+    ]
+
+  },	
+	
+	
+	  {
+    "title":"CNN Arabic",
+    "drawable":"",
+    "submenu":"أخبار سريعة",
+    "iap":false,
+    "tabs":[
+
+      {
+        "title":"FRance 24",
+        "provider":"rss",
+        "arguments":[
+          "https://arabic.cnn.com/api/v1/rss/sport/rss.xml"
+
+
+        ]
+      }
+    ]
+  },
+	{
+    "title":"Youm 7",
+    "drawable":"",
+    "submenu":"أخبار سريعة",
+    "iap":false,
+    "tabs":[
+
+      {
+        "title":"FRance 24",
+        "provider":"rss",
+        "arguments":[
+          "https://www.youm7.com/rss/SectionRss?SectionID=298"
+
+
+        ]
+      }
+    ]
+  },
+		   
+	 
+
+  
+  
+
+  {
+    "title":"ملخصات و أهداف",
+    "drawable":"",
+    "submenu":"كورة عربية",
+    "iap":false,
+    "tabs":[
+	      {
+        "title":"تونس",
+        "provider":"youtube",
+        "arguments":[
+          "UCa44LffDN9BNwyGgWpNtBNw",
+          "channel"
+        ]
+      },
+	        {
+        "title":"الجزائر",
+        "provider":"youtube",
+        "arguments":[
+          "UCWAt9dF1QFI-g3m2X0FUwzw",
+          "channel"
+        ]
+      },
+	    	     {
+        "title":"المغرب",
+        "provider":"youtube",
+        "arguments":[
+          "UCqXVEbCxzMh-Xljo7ApVgTQ",
+          "channel"
+        ]
+      },
+	    
+	    	          {
+        "title": "كورة مصرية",
+        "provider":"youtube",
+        "arguments":[
+          "UCWLo4r-9_x4GCJCFShNFq0A",
+          "channel"
+
+        ]
+      },
+	    
+	        
+     
+      {
+        "title":"الدوري السعودي",
+        "provider":"youtube",
+        "arguments":[
+          "UCuv25YFiKY3NUnuG7q7F3ng",
+          "channel"
+        ]
+      }
+	   
+	
+	
+	  
+	  
+    ]
+  },
+
+	
+	
+
+
+
+  {
+    "title":"فيديوهات",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Categories",
+        "provider":"overview",
+        "arguments":[
+          "overview.json"
+        ]
+      }
+    ]
+  },
+	
+	
+	
+
+  {
+    "title":"عن التطبيق",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.medooapps.appli.molakhs.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
